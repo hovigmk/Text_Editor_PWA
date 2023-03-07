@@ -67,3 +67,10 @@ yarn.lock
 .DS_Store
 .vscode
 *.xslx
+
+node_modules/
+dist/
+/node_modules
+npm-debug.log
+.DS_Store
+/*.env
