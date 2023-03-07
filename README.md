@@ -77,10 +77,10 @@ Github Deployed Link: https://hovigmk.github.io/Text_Editor_PWA/
 Heroku Link: https://text-editor15-pwa.herokuapp.com/
 
 Screenshots:
-[Home-Page](./assets/Home%20Page.jpg)
-[manifest.json](./assets/Manifest.jpg)
-[service-worker](./assets/Service%20Worker.jpg)
-[Database](./assets/JATE%20database.jpg)
+![Home-Page](./assets/Home%20Page.jpg)
+![manifest.json](./assets/Manifest.jpg)
+![service-worker](./assets/Service%20Worker.jpg)
+![Database](./assets/JATE%20database.jpg)
 
 # Contributing
 
