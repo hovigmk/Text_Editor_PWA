@@ -74,10 +74,13 @@ Unlicense
 
 Github Repo Link: https://github.com/hovigmk/Text_Editor_PWA  
 Github Deployed Link: https://hovigmk.github.io/Text_Editor_PWA/  
-Heroku Link: https://text-editor15-pwa.herokuapp.com/  
+Heroku Link: https://text-editor15-pwa.herokuapp.com/
 
-Screenshots: 
-
+Screenshots:
+[Home-Page](./assets/Home%20Page.jpg)
+[manifest.json](./assets/Manifest.jpg)
+[service-worker](./assets/Service%20Worker.jpg)
+[Database](./assets/JATE%20database.jpg)
 
 # Contributing
 
